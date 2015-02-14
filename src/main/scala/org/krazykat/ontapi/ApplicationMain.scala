@@ -1,4 +1,4 @@
-package com.example
+package org.krazykat.ontapi
 
 import akka.actor.ActorSystem
 
