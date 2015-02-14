@@ -1,0 +1,15 @@
+tree
+ls
+show 
+run
+compile
+baseDirectory
+compile
+build
+buildDependencies
+buildDependencies 
+buildDependencies()
+dependencyClasspath
+clean
+reboot
+run
