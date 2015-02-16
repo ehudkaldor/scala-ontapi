@@ -1,6 +1,6 @@
 package org.krazykat.ontapi.models.naElement
 
-class BaseOntapiVersion(
+abstract class BaseOntapiVersion(
   major: Int,
   minor: Int
 ) extends NaElement{
