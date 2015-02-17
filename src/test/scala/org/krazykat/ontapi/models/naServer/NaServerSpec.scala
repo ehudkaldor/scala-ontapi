@@ -19,10 +19,5 @@ class NaServerSpec extends Specification{
       naServer.ontapiVersionOpt must not be None
       naServer.ontapiVersionOpt.get.minor must beEqualTo(0)
     }
-
-    "have isClustered as false" in {
-      naServer.ontapiVersionOpt must not be None
-      naServer.ontapiVersionOpt.get.isClusered must beEqualTo(false)
-    }
   }
 }
